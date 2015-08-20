@@ -3,12 +3,18 @@
 
 public static class cls_TimeLapseCamera {
 
-  Capture cameras;
+//  Capture cameras;
+public float TimeInterval;
 
- private void  cls_TimeLapseCamera() {
+
+
+
+  private void  cls_TimeLapseCamera() {
   }
 
- public static void CameraInfo() {
+
+  //----PRINT OUT THE CAMERA INFORMATION----
+  public static void CameraInfo() {
     String[] cameraNames = Capture.list();
 
     if (cameraNames.length==0) {
@@ -20,8 +26,7 @@ public static class cls_TimeLapseCamera {
       }  // close for
     }    // close if
   }
-  
-
+  //----PRINT OUT THE CAMERA INFORMATION----
 }                // close class
 //------------------------------------------------
 
