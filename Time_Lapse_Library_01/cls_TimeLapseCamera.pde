@@ -1,16 +1,33 @@
-
+//http://docs.oracle.com/javase/7/docs/api/javax/swing/filechooser/FileNameExtensionFilter.html
 
 
 public static class cls_TimeLapseCamera {
 
-//  Capture cameras;
-public float TimeInterval;
+  public float TimeInterval;
+  public String[] ImageNames;
+  public PImage[] Images;
 
 
-
-
+  //----BLANK CONSTRUCTOR----
   private void  cls_TimeLapseCamera() {
   }
+  //----BLANK CONSTRUCTOR----
+
+
+  //----READ THE FILES IN THE FOLDER----
+  public static void ReadLoadImages(String FolderLocation, String... FileExtension) {
+    
+    File folder = new File(FolderLocation);
+   // java.io.FileFilter ext = new ExtensionFilter("JPEG file", "jpg", "jpeg");
+    
+    
+    if (folder.isDirectory() && folder.exists()) {
+      println("Number of files in folder: " + folder.listFiles().length);
+    } else {
+      println("Folder path supplied cannot be found");
+    }
+  }
+  //----READ THE FILES IN THE FOLDER----
 
 
   //----PRINT OUT THE CAMERA INFORMATION----
