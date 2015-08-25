@@ -2,7 +2,7 @@
 import processing.video.*;
 //http://docs.oracle.com/javase/7/docs/api/java/io/File.html
 import java.io.*;
-import javax.swing.filechooser.*;
+//import javax.swing.filechooser.*;
 
 
 // call camera
@@ -12,7 +12,7 @@ void setup() {
 
   size(640, 480);
  // cls_TimeLapseCamera.CameraInfo();
-  cls_TimeLapseCamera.ReadLoadImages("C:\\Users\\cportelli\\Pictures\\2015_06_14_GWB\\", ".jpg");
+  cls_TimeLapseCamera.ReadLoadImages("C:\\Users\\cportelli\\Pictures\\2015_08_02_Sunset_Time_Lapse\\", ".jpg");
  
   
 }      // close setup
