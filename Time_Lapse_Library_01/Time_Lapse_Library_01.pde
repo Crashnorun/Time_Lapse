@@ -12,7 +12,10 @@ void setup() {
 
   size(640, 480);
  // cls_TimeLapseCamera.CameraInfo();
-  cls_TimeLapseCamera.ReadLoadImages("C:\\Users\\cportelli\\Pictures\\2015_08_02_Sunset_Time_Lapse\\", ".jpg");
+  //cls_TimeLapseCamera.ReadLoadImages("C:\\Users\\cportelli\\Pictures\\2015_08_02_Sunset_Time_Lapse\\", ".jpg");
+ 
+ cls_Camera_Selection camSel = new cls_Camera_Selection();
+ camSel.CameraInfo();
  
   
 }      // close setup

@@ -20,7 +20,7 @@ public static class cls_TimeLapseCamera {
     // java.io.FileFilter ext = new ExtensionFilter("JPEG file", "jpg", "jpeg");
 
     //File ext = new File(".jpg");
-    /FileFilter filter = new FileFilter();
+    //FileFilter filter = new FileFilter();
     //  http://stackoverflow.com/questions/5603966/how-to-make-filefilter-in-java
     //   http://docs.oracle.com/javase/7/docs/api/javax/swing/filechooser/FileFilter.html
     //   http://www.tutorialspoint.com/java/io/file_listfiles_file_filter.htm
