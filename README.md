@@ -1,7 +1,7 @@
 # Time_Lapse
 Time lapse library for processing
 
-The goal of this project is to develop a time lapse libarary for processing. 
+The goal of this project is to develop a time lapse library for processing that will be able to read a series of sequential jpg’s and compile them into a single image. 
 
 COMPILING IMAGES
 Features of this class will include:
@@ -12,7 +12,7 @@ Features of this class will include:
 - create a time lapse image with diagonal stripes
 - create a time lapse image with the same vertical strip from all images
 - create a time lapse image with the same horizontal stripe from all images
-- create a time lapse image witht he same diagonal strip from all images
+- create a time lapse image with the same diagonal strip from all images
 
 TAKING IMAGES
 The class will also be able to take a sequence of images. The user can set:
