@@ -102,10 +102,10 @@ void setup() {
   }
   //println(files.get(0).getName());
 
-  //GetPixelsVertically();                                     // create image with vertical stripes
-  //GetPixelsHorizontally();                                   // create image with horizontal stripes
+  GetPixelsVertically();                                     // create image with vertical stripes
+  GetPixelsHorizontally();                                   // create image with horizontal stripes
   GetPixelsDiagonalally();                                   // create image with diagonal stripes
-  //GetPixelsSquares();                                        // create image with square swatches
+  GetPixelsSquares();                                        // create image with square swatches
   // Glitch_01();
 }
 //----------------------------------------------------------------------------
