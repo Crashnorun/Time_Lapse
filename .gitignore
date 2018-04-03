@@ -1,7 +1,7 @@
 #Ignore test files
-/Compile_Images_01/*.jpg
-/Compile_Images_01/Folder Locations.txt
-/Compile_Images_01/Debug_Values.txt
+master/Compile_Images_01/*.jpg
+master/Compile_Images_01/Folder Locations.txt
+master/Compile_Images_01/Debug_Values.txt
 
 # Windows image file caches
 Thumbs.db
