@@ -2,25 +2,25 @@
 
 The Time Lapse repo is a personal project of mine that deals with time lapse photography and images. This repo was developed using Processing version 3.2.3, on Windows PC. Newer versions of Processing might need some minor modifications to the code.
 
-# Compile\_Images\_01
+## Compile\_Images\_01
 
-## Intro:
+### Intro:
 
 The goal of this project is to develop a Processing app for compiling a series of sequential jpg&#39;s into a single image. The images can come from any source, I typically use a DSLR camera, but any image collection should work. It&#39;s best if the file names are sequential but if there are files missing from the sequence, the app should still work. The files are consumed in alphabetical / numerical order. The images should be of the same dimensions (width x height). The size of the images should not matter, nor should the quantity of images, but the larger the image sizes and the larger the collection the longer the app may take to process them. Check out my website to see the results from this app: [https://www.charlesportelli.com/play-1/#/time-lapse/](https://www.charlesportelli.com/play-1/#/time-lapse/)
 
-## Requirements:
+### Requirements:
 
 - Processing 3.2.3 or later
 - Folder with sequential jpg&#39;s
 - Image dimensions (width x height) should be the same for expected results.
 - The image file extension is currently case sensitive. Use .jpg or .JPG for all images.
 
-## Variables:
+### Variables:
 
 - String indicating folder location
 - Step Number: number of images to skip (1 = use all files, 2 = use every other file, etc.)
 
-## Results:
+### Results:
 
 This app will create 4 different compiled images
 
@@ -29,7 +29,7 @@ This app will create 4 different compiled images
 - Diagonal stitching ![Diagonal Stitching](https://github.com/Crashnorun/Time_Lapse/blob/master/Compile_Images_01/Sample%20Images/03_Diagonal_ImageStep_5.jpg)
 - Square swatches ![Square Swatches](https://github.com/Crashnorun/Time_Lapse/blob/master/Compile_Images_01/Sample%20Images/04_Square_ImageStep_5.jpg)
 
-# Time\_Lapse\_Library\_01
+## Time\_Lapse\_Library\_01
 
 This app is a work in progress.
 
