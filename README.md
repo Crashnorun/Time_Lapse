@@ -25,9 +25,9 @@ The goal of this project is to develop a Processing app for compiling a series o
 This app will create 4 different compiled images
 
 - Vertical stitching ![Vertical Stitching](https://github.com/Crashnorun/Time_Lapse/blob/master/Compile_Images_01/Sample%20Images/01_Vertical_ImageStep_5.jpg)
-- Horizontal stitching
-- Diagonal stitching
-- Square swatches
+- Horizontal stitching ![Horizontal Stitching](https://github.com/Crashnorun/Time_Lapse/blob/master/Compile_Images_01/Sample%20Images/02_Horizontal_ImageStep_5.jpg)
+- Diagonal stitching ![Diagonal Stitching](https://github.com/Crashnorun/Time_Lapse/blob/master/Compile_Images_01/Sample%20Images/03_Diagonal_ImageStep_5.jpg)
+- Square swatches ![Square Swatches](https://github.com/Crashnorun/Time_Lapse/blob/master/Compile_Images_01/Sample%20Images/04_Square_ImageStep_5.jpg)
 
 # Time\_Lapse\_Library\_01
 
