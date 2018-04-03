@@ -1,5 +1,0 @@
-//String path = "C:\\Users\\cportelli\\Pictures\\2015_08_02_Sunset_Time_Lapse";
-//String path = "C:\\Users\\cportelli\\Pictures\\2015_08_15_Venice_Beach_Sunset";
-//String path = "C:\\Users\\charl\\Documents\\Personal\\Photos\\Andros\\Time Lapse";
-//String path = "C:\\Users\\charl\\Documents\\Personal\\Photos\\Whitney_&_Standard";
-String path = "C:\\Users\\charl\\Documents\\Personal\\Photos\\170924_Empire_State_Time_Lapse\\JPG's";
