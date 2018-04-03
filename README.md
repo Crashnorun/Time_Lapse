@@ -6,7 +6,7 @@ The Time Lapse repo is a personal project of mine that deals with time lapse pho
 
 ## Intro:
 
-The goal of this project is to develop a Processing app for compiling a series of sequential jpg&#39;s into a single image. The images can come from any source, I typically use a DSLR camera, but any image collection should work. It&#39;s best if the file names are sequential but if there are files missing from the sequence, the app should still work. The files are consumed in alphabetical / numerical order. The images should be of the same dimensions (width x height). The size of the images should not matter, nor should the quantity of images, but the larger the image sizes and the larger the collection the longer the app may take to process them.
+The goal of this project is to develop a Processing app for compiling a series of sequential jpg&#39;s into a single image. The images can come from any source, I typically use a DSLR camera, but any image collection should work. It&#39;s best if the file names are sequential but if there are files missing from the sequence, the app should still work. The files are consumed in alphabetical / numerical order. The images should be of the same dimensions (width x height). The size of the images should not matter, nor should the quantity of images, but the larger the image sizes and the larger the collection the longer the app may take to process them. Check out my website to see the results from this app: [https://www.charlesportelli.com/play-1/#/time-lapse/](https://www.charlesportelli.com/play-1/#/time-lapse/)
 
 ## Requirements:
 
